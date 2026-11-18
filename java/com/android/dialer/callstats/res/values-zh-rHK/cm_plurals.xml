@@ -16,19 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="hour">
-        <item quantity="one">١ کاژێر</item>
-        <item quantity="other">%d کاژێر</item>
+        <item quantity="other">%d 小時</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="one">١ خولەک</item>
-        <item quantity="other">%d خولەک</item>
+        <item quantity="other">%d 分鐘</item>
     </plurals>
     <plurals name="second">
-        <item quantity="one">١ چرکە</item>
-        <item quantity="other">%d چرکە</item>
+        <item quantity="other">%d 秒</item>
     </plurals>
     <plurals name="call">
-        <item quantity="one">١ پەیوەندی</item>
-        <item quantity="other">%d پەیوەندی</item>
+        <item quantity="other">%d 個通話</item>
     </plurals>
 </resources>
